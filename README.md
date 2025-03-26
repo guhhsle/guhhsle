@@ -1,3 +1,3 @@
 guhhsle@proton.me
  
-Flutter using Vim
+Flutter using NeoVim on NixOS
